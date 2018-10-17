@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/PedroHincapie/pruebasJest/issues"
   },
-  "homepage": "https://github.com/PedroHincapie/pruebasJest#readme"
+  "homepage": "https://github.com/PedroHincapie/pruebasJest#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
