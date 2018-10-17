@@ -1,0 +1,24 @@
+{
+  "name": "pruebasjest",
+  "version": "1.0.0",
+  "description": "Proyecto con el que se realiza las primeras pruebas unitarias de front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroHincapie/pruebasJest.git"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "Pedro Jesus Hincapie Garcia <pedandniv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroHincapie/pruebasJest/issues"
+  },
+  "homepage": "https://github.com/PedroHincapie/pruebasJest#readme"
+}
